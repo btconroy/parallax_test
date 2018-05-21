@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 25px;
+}
+
+/* Navbar */
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  height: 75px;
+}
+
+.nav-container img {
+  height: 100%;
+  width: auto;
+  margin-top: 10px;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  
+}
